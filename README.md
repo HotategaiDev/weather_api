@@ -27,7 +27,7 @@ openWeather:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/urimeba/codeChallenge-jha.git
+git clone https://github.com/HotategaiDev/weather_api.git
 ```
 
 2. Navigate to the project directory:
